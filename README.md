@@ -36,4 +36,6 @@ Your default browser should launch the movie trailer website on a new tab.
 
 * Its open and free to use :)
 
+Visit the page here: https://ggoh-trailer.herokuapp.com/
+
 ## Basic template was derived from https://gist.github.com/zenorocha/4526327# trailer-website
